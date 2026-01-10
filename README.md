@@ -40,7 +40,7 @@ pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gtk3 mingw-w64-x86_64-gtksourcev
 Created by me as a half-year school project in the span of +- a month.
 
 ### Want to know more?
-Visit my personal website on [I'll add the website link once my personal web is running]
+Visit my personal website https://bmatula.vercel.app/
 
 ### License
 MIT License - feel free to fork, modify, and distribute!
